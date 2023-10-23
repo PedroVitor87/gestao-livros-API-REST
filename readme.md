@@ -39,5 +39,3 @@ O Sistema de Gerenciamento de Livros é um serviço web REST desenvolvido com Ex
 ## Utilização
 
 Estes endpoints foram projetados para serem utilizados em ferramentas como [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/) para interações e testes com a API.
-
-Lembre-se de fornecer instruções sobre como configurar e usar essas ferramentas específicas, se necessário.
